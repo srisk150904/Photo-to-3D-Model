@@ -47,11 +47,11 @@ In this project we’re going to take a 2D image and turn it into a 3D mesh! We�
    The GLPN model - AI used for monocular depth estimation, meaning it can determine the depth of objects within a single image.
 
 3. **Point Cloud:**  
-   We then combine the depth info with the original image to create an RGB-D image (it’s an image with both color and depth data).\n
+   We then combine the depth info with the original image to create an RGB-D image (it’s an image with both color and depth data).<br>
    A 3D point cloud - digital representation of an object or environment composed of numerous individual data points in a 3D coordinate system.
 
 5. **Making the Mesh:**  
-   From this RGB-D image, we create a 3D point cloud, and then we turn that into a mesh using a technique called Poisson surface reconstruction.
+   From this RGB-D image, we create a 3D point cloud, and then we turn that into a mesh using a technique called Poisson surface reconstruction.<br>
    Poisson surface reconstruction - technique used to generate a smooth, triangular mesh from a set of 3D point data
 
 7. **Export & View:**  
