@@ -12,7 +12,7 @@ feature_extractor = GLPNImageProcessor.from_pretrained("vinvino02/glpn-nyu")
 model = GLPNForDepthEstimation.from_pretrained("vinvino02/glpn-nyu")
 
 #3. Load and resize the image
-image = Image.open("input/strawberry_2d.png")    #give the img path
+image = Image.open("input/space.png")    #give the img path
 image = image.convert('RGB')      #convert to rgb
 new_height = 512 if image.height > 480 else image.height   # choose the req height
 new_height -= (new_height % 32)       # it should be multiple of 32 
