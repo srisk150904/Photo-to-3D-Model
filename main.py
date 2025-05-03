@@ -73,7 +73,7 @@ pcd.orient_normals_to_align_with_direction()
 
 # 12. reconstruct surface from point cloud using Poisson reconstruction
 mesh = o3d.geometry.TriangleMesh.create_from_point_cloud_poisson(pcd, depth=15)[0]
-mesh= mesh.filter_smooth_simple(number_of_iterations=5)
+mesh= mesh.filter_smooth_simple(number_of_iterations=1)
 
 #rotate the mesh
 rotation = mesh.get_rotation_matrix_from_xyz((np.pi, 0, 0))
