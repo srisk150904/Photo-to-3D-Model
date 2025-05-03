@@ -38,5 +38,13 @@ In this project weâ€™re going to take a 2D image and turn it into a 3D mesh! Weâ
 
    Open your terminal/command prompt and type:
    ```bash
-   git clone https://github.com/your-repo/photo-to-3D-Model.git
-   cd photo-to-3D-Model
+   git clone https://github.com/srisk150904/-photo-to-3D-Model.git
+   cd -photo-to-3D-Model
+bash```
+
+   Install Dependencies and run main file:
+   ```bash
+   pip install -r requirements.txt
+   python main.py
+
+
