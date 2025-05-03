@@ -82,4 +82,4 @@ mesh.rotate(rotation, center=(0,0,0))
 #display the mesh
 o3d.visualization.draw_geometries([mesh], mesh_show_back_face=True)
 
-o3d.io.write_triangle_mesh('final.ply', mesh)
+o3d.io.write_triangle_mesh('final.obj', mesh)
