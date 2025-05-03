@@ -43,11 +43,11 @@ In this project we’re going to take a 2D image and turn it into a 3D mesh! We�
 ## 🧠 How It Works
 
 1. **Depth Estimation:**  
-   We use the GLPN model (which you can find on HuggingFace) to predict the depth of the image, so that we know how far things are in 3D space.
+   We use the GLPN model (which you can find on HuggingFace) to predict the depth of the image, so that we know how far things are in 3D space. <br>
    The GLPN model - AI used for monocular depth estimation, meaning it can determine the depth of objects within a single image.
 
 3. **Point Cloud:**  
-   We then combine the depth info with the original image to create an RGB-D image (it’s an image with both color and depth data).
+   We then combine the depth info with the original image to create an RGB-D image (it’s an image with both color and depth data).\n
    A 3D point cloud - digital representation of an object or environment composed of numerous individual data points in a 3D coordinate system.
 
 5. **Making the Mesh:**  
