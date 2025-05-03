@@ -1,4 +1,4 @@
-# -Photo-to-3D-Model
+# Photo-to-3D-Model
 
 # Photo-to-3D Mesh Generator using AI
 
@@ -38,8 +38,8 @@ In this project weâ€™re going to take a 2D image and turn it into a 3D mesh! Weâ
 
    Open your terminal/command prompt and type:
    ```bash
-   git clone https://github.com/srisk150904/-photo-to-3D-Model.git
-   cd -photo-to-3D-Model
+   git clone https://github.com/srisk150904/Photo-to-3D-Model.git
+   cd Photo-to-3D-Model
 bash```
 
    Install Dependencies and run main file:
