@@ -6,7 +6,9 @@
   <img src="https://github.com/user-attachments/assets/bad50b79-bb06-41f8-a3df-f991bf6e9eb8" width="300"/>
   <img src="https://github.com/user-attachments/assets/e9a545c0-e760-4237-a48f-fa91adbf9764" width="300"/>
   <img src="https://github.com/user-attachments/assets/fa333883-c911-4a01-8770-a3d424f03c6f" width="300"/>
-  ![pot-2d](https://github.com/user-attachments/assets/9c3d4467-2eee-47b6-b967-8f5e67911575)
+  <img src="https://github.com/user-attachments/assets/9c3d4467-2eee-47b6-b967-8f5e67911575" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ef4f2b24-d243-492a-9577-49c41d703f8d" width="300"/>
+
 
 </p>
 
